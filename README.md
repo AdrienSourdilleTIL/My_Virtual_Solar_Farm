@@ -15,6 +15,7 @@ For the first year, production is estimated at 50 GW/h.
 
 For this project, I extracted the solar irradiance data of the solar plant's location (15.13, -16.67) in 2019 and simulated the yearly functioning of 980 Q Cells G8+ panels (340W) distributed between 70 Fox F5000 Single Phase Inverters (5kw) for a total theoretical capacity of 333Kw.
 
+<img src="Solar Monitoring.png" width="80%">
 
 
 
